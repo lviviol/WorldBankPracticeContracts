@@ -16,7 +16,7 @@
 9. In general, Asia is actively seeking Industrialization and Trade services, while relatively more developed regions such as Europe & Central Asia seems more focused on Water, Sanitation and Waste Management.
 
 **Other Notes  **
-- More in-dept understanding of each region and participating counties is neccessary to draw further insights to this ~US$140B contract finance recepients 
+- More in-dept understanding of each region and participating countries is neccessary to draw further insights to this ~US$140B contract finance recepients 
 - Chart color selection & matching can be improved for more efficient readility and comparison.  
 - SQLite & Python are used for compiling this data due SQL's efficient interation with database and Python's versatility and flexibility.
 

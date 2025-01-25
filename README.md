@@ -21,7 +21,4 @@
 - SQLite & Python are used for compiling this data due SQL's efficient interation with database and Python's versatility and flexibility.
 
 
-![alt text](https://github.com/lviviol/WorldBankPracticeContracts/blob/main/WBProjects.png?raw=true)  
-
-
 ![alt text](https://github.com/lviviol/WorldBankPracticeContracts/blob/main/WBPractice.png?raw=true)
